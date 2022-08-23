@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ResultApiApp</string>
+    <string name="result_api_title">First</string>
+    <string name="result_api_text">Arg</string>
+    <string name="second_title">Second</string>
+    <string name="back_arg">Back arg</string>
+    <string name="forward">➔</string>
+    <string name="bluetooth">🔵🦷</string>
+</resources>
